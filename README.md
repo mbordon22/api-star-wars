@@ -18,12 +18,12 @@ Este proyecto es una aplicación basada en Symfony 6.3 que consume la API de Sta
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/mbordon22/socialpubli.git
+   git clone https://github.com/mbordon22/api-star-wars.git
     ```
 2. Acceder al respositorio:
 
    ```bash
-   cd socialpubli
+   cd api-star-wars
    ```
 2. Instalar las dependencias del proyecto con Composer:
 
