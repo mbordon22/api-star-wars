@@ -1,0 +1,6 @@
+star_wars_people:
+    path: /api/star-wars/people
+    controller: App\Controller\StarWarsController::getPeople
+starwars_view:
+    path: /starwars
+    controller: App\Controller\StarWarsViewController::index
